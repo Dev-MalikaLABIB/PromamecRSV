@@ -39,9 +39,3 @@ Ce projet est une **application web full-stack** conçue pour faciliter la gesti
 > À venir...
 
 ---
-
-## ⚙️ Installation
-
-1. **Cloner le dépôt** :
-   ```bash
-   git clone https://github.com/votreutilisateur/promamec-room-reservation.git
